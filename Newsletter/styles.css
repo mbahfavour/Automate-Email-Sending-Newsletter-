@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 60%;
+    height: 70%;
+    border-style: solid;
+    margin-top: 40px;
+    margin-left: 110px;
+    padding: 25px;
+    
+}
+
+.container h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.container p{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 15px;    
+}
+
+.features {   
+    margin-top: 15px;
+}
